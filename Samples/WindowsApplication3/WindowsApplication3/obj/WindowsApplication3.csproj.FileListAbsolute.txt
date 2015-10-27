@@ -1,0 +1,7 @@
+D:\Samples\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+D:\Samples\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+D:\Samples\WindowsApplication3\WindowsApplication3\obj\Debug\ResolveAssemblyReference.cache
+D:\Samples\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Properties.Resources.resources
+D:\Samples\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.csproj.GenerateResource.Cache
+D:\Samples\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+D:\Samples\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
