@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsApplication3", "WindowsApplication3\WindowsApplication3.csproj", "{49FEE4B2-A129-415B-A8B5-778DE4356A8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfoBox", "..\..\New Folder\infobox-66728\4.0\InfoBox\InfoBox.csproj", "{18B58CA4-E470-4EB4-AC2B-52BECAFE0B53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfoBox.Designer", "..\..\New Folder\infobox-66728\4.0\InfoBox.Designer\InfoBox.Designer.csproj", "{2EFBB177-E826-47B4-8028-D124ECFAAE05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49FEE4B2-A129-415B-A8B5-778DE4356A8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49FEE4B2-A129-415B-A8B5-778DE4356A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49FEE4B2-A129-415B-A8B5-778DE4356A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49FEE4B2-A129-415B-A8B5-778DE4356A8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18B58CA4-E470-4EB4-AC2B-52BECAFE0B53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B58CA4-E470-4EB4-AC2B-52BECAFE0B53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B58CA4-E470-4EB4-AC2B-52BECAFE0B53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B58CA4-E470-4EB4-AC2B-52BECAFE0B53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EFBB177-E826-47B4-8028-D124ECFAAE05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EFBB177-E826-47B4-8028-D124ECFAAE05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EFBB177-E826-47B4-8028-D124ECFAAE05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EFBB177-E826-47B4-8028-D124ECFAAE05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
