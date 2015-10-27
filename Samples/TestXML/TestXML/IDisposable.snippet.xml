@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippet Format="1.0.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <Header>
+    <Title>Simple IDisposable Code Snippet</Title>
+    <Author>BlackWasp</Author>
+    <Shortcut>idisp</Shortcut>
+    <Description>Code for the basic IDisposable pattern.</Description>
+    <SnippetTypes>
+      <SnippetType>Expansion</SnippetType>
+    </SnippetTypes>
+  </Header>
+  <Snippet>
+    <Code Language="CSharp">
+      <![CDATA[private bool _disposed;
+
+public void SampleMethod()
+{
+    if (_disposed) throw new ObjectDisposedException("MyObject");
+}
+
+protected virtual void Dispose(bool disposing)
+{
+    if (!_disposed)
+    {
+        if (disposing)
+        {
+            // Dispose managed resources
+        }
+
+        // Dispose unmanaged resources
+        _disposed = true;
+    }
+}
+
+public void Dispose()
+{
+    Dispose(true);
+    GC.SuppressFinalize(this);
+}]]>
+    </Code>
+  </Snippet>
+</CodeSnippet>
