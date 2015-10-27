@@ -1,0 +1,3 @@
+D:\Samples\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+D:\Samples\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+D:\Samples\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
