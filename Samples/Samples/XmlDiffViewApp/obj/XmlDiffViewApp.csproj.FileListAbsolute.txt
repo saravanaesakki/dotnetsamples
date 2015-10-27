@@ -1,0 +1,7 @@
+D:\Samples\Samples\XmlDiffViewApp\bin\Debug\XmlDiffView.exe
+D:\Samples\Samples\XmlDiffViewApp\bin\Debug\XmlDiffView.pdb
+D:\Samples\Samples\XmlDiffViewApp\bin\Debug\XmlDiffPatch.View.dll
+D:\Samples\Samples\XmlDiffViewApp\bin\Debug\XmlDiffPatch.View.pdb
+D:\Samples\Samples\XmlDiffViewApp\obj\Debug\ResolveAssemblyReference.cache
+D:\Samples\Samples\XmlDiffViewApp\obj\Debug\XmlDiffView.exe
+D:\Samples\Samples\XmlDiffViewApp\obj\Debug\XmlDiffView.pdb
