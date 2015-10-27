@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="XmlDiffView">
+</Property><Property Name="Solution File" Value="D:\Samples\Samples\XmlDiffView.sln">
+</Property><Property Name="Date" Value="Saturday, October 20, 2012">
+</Property><Property Name="Time" Value="17:44 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="XmlDiffView.sln" Description="File successfully backed up as D:\Samples\Samples\Backup\XmlDiffView.sln">
+</Event><Event ErrorLevel="0" Project="XmlDiffViewApp" Source="XmlDiffViewApp\XmlDiffViewApp.csproj" Description="Project file successfully backed up as D:\Samples\Samples\Backup\XmlDiffViewApp\XmlDiffViewApp.csproj">
+</Event><Event ErrorLevel="0" Project="XmlDiffViewApp" Source="XmlDiffViewApp\AssemblyInfo.cs" Description="File successfully backed up as D:\Samples\Samples\Backup\XmlDiffViewApp\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="XmlDiffViewApp" Source="XmlDiffViewApp\XmlDiffViewApp.cs" Description="File successfully backed up as D:\Samples\Samples\Backup\XmlDiffViewApp\XmlDiffViewApp.cs">
+</Event><Event ErrorLevel="0" Project="XmlDiffViewApp" Source="XmlDiffViewApp\XmlDiffViewApp.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="XmlDiffViewApp" Source="XmlDiffViewApp\XmlDiffViewApp.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="XmlDiffView" Source="XmlDiffView\XmlDiffView.csproj" Description="Project file successfully backed up as D:\Samples\Samples\Backup\XmlDiffView\XmlDiffView.csproj">
+</Event><Event ErrorLevel="0" Project="XmlDiffView" Source="XmlDiffView\AssemblyInfo.cs" Description="File successfully backed up as D:\Samples\Samples\Backup\XmlDiffView\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="XmlDiffView" Source="XmlDiffView\OperationDescriptor.cs" Description="File successfully backed up as D:\Samples\Samples\Backup\XmlDiffView\OperationDescriptor.cs">
+</Event><Event ErrorLevel="0" Project="XmlDiffView" Source="XmlDiffView\TestXmlDiff.cs" Description="File successfully backed up as D:\Samples\Samples\Backup\XmlDiffView\TestXmlDiff.cs">
+</Event><Event ErrorLevel="0" Project="XmlDiffView" Source="XmlDiffView\XmlDiffPathForView.cs" Description="File successfully backed up as D:\Samples\Samples\Backup\XmlDiffView\XmlDiffPathForView.cs">
+</Event><Event ErrorLevel="0" Project="XmlDiffView" Source="XmlDiffView\XmlDiffView.cs" Description="File successfully backed up as D:\Samples\Samples\Backup\XmlDiffView\XmlDiffView.cs">
+</Event><Event ErrorLevel="0" Project="XmlDiffView" Source="XmlDiffView\XmlDiffViewNodes.cs" Description="File successfully backed up as D:\Samples\Samples\Backup\XmlDiffView\XmlDiffViewNodes.cs">
+</Event><Event ErrorLevel="0" Project="XmlDiffView" Source="XmlDiffView\XmlDiffView.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="XmlDiffView" Source="XmlDiffView\XmlDiffView.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="XmlDiffView.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="XmlDiffView.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="XmlDiffViewApp" Source="XmlDiffViewApp\XmlDiffViewApp.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="XmlDiffView" Source="XmlDiffView\XmlDiffView.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
